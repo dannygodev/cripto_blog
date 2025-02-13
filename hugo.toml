@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://go-criptography.netlify.app//'
 languageCode = 'en-us'
 title = 'Cryptography Blog'
 theme = 'PaperMod'
