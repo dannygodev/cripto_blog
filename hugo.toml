@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Cryptography Blog'
+theme = 'PaperMod'
+
+[params]
+    [params.homeInfoParams]
+        Title = "🔐 Criptografía para Principiantes: Protegiendo Tu Información en la Era Digital"
+        Content = "Descubre cómo funciona la criptografía, sus tipos y por qué es esencial para mantener segura tu información en línea."
+
+    [[params.socialIcons]]
+        name = "instagram"
+        url = "instagram.com/alejandroaguilar"
+
+    [[params.socialIcons]]
+        name = "twitter"
+        url = "<link2>"
+
